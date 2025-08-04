@@ -7,7 +7,7 @@
 
 - Responsive Design : Optimized for a seamless experience on all devices, from desktops to mobile phones.
 
-- Clear Sections : Dedicated sections for "About Me," "My Skills," "My Projects," and a "Contact Me" form.
+- Clear Sections : Dedicated sections for "About Me," "My Skills," "My Projects" and a "Contact Me" form.
 
 - Smooth Navigation : The top navigation bar includes a mobile-friendly hamburger menu for easy access to all sections.
 
@@ -29,9 +29,3 @@ Showcasing the Layout and Styling implemented Using pure HTML and CSS.
 The Design focuses on Clean Structure, Responsiveness and Modern Styling.
 
 <img src="./Images/Portfolio.png" alt="Single Page Mini-Portfolio - 1 Preview" width="100%" />
-
-### Author
-
-Md Afjal
-
-GitHub : [ItsAfjal-Developer](https://github.com/ItsAfjal-Developer)
